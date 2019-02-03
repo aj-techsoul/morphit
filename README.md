@@ -13,6 +13,7 @@ Now you can use like this to make it work
 </p>
 ```
 ### JS
+Download morphit.js and then use it like this
 ```
 <script src="morphit.js" charset="utf-8"></script>
 <script>
