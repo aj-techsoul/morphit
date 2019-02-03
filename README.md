@@ -21,10 +21,10 @@ Now you can use like this to make it work
    
    // Customizable Use
    morphit({
-        animate: 'fadeIn',
-        interval: 3000,
-        morphid: '#morphit',
-        seperator: ','
+        animate: 'fadeIn',       // animation using animate.css
+        interval: 3000,         // Time Interval, 3000 = 3 seconds
+        morphid: '#morphit',   //  ID of the element, Don't use Class. For multiple use, call this function multiple times with diffrent ids.
+        seperator: ','        // Seperators - with which you are seperating your code, here we used , (comma)
    });
 </script>
 ```
